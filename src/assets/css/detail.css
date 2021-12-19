@@ -1,0 +1,32 @@
+.detail-box,
+.d-picture,
+.d-title,
+.button {
+  float: none;
+  margin: 0 auto;
+}
+.detail-box {
+  width: 100%;
+  height: 500px;
+  text-align: center;
+}
+.d-picture {
+  width: 200px;
+  height: 250px;
+}
+.d-picture img {
+  width: 200px;
+  height: 250px;
+}
+.d-title {
+  margin-top: 20px;
+}
+.button {
+  margin-top: 20px;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  border: 0px;
+  border-radius: 5px;
+  background-color: aquamarine;
+}
